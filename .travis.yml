@@ -6,3 +6,7 @@ cache: true
 
 node_js:
   - '0.10'
+  
+notifications:
+  email:
+    - manisha@shippable.com
